@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartek
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning AWS CLOUD and BIG DATA skills
-- 💞️ I’m looking for my first job on junior data/big data engineer position
+- 💞️ I’m looking for my first junior data/big data engineer job
 
 
 <!---
