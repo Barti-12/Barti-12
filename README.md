@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Bartek
-- 👀 I’m interested in Data Engineering
-- 🧰 I’m currently working as Junior Data Analyst and I'am also Big Data student on SGH.
-- 🌱 I’m currently learning AWS CLOUD and BIG DATA skills
-- 💞️ I’m looking for my first junior data/big data engineer job
+- 🧰 I’m currently working as Data Engineer and I'am also Big Data student on SGH.
+
 
 
 <!---
